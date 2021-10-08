@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"photoshopJr","l":"Picture"},{"p":"photoshopJr","l":"Pixel"}];updateSearchResults();
